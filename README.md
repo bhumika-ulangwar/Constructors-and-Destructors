@@ -66,7 +66,7 @@ This program demonstrates a **parameterized constructor** in the `Product` class
 
 **Algorithm:**
 1. Start  
-2. Define class `Product` with data members  
+2. Define class ` with data members  
 3. Define parameterized constructor with arguments  
 4. Define `display()` function  
 5. In `main()`, create object with arguments  
@@ -81,12 +81,12 @@ This program demonstrates a **copy constructor** in the `student` class.
 
 **Algorithm:**
 1. Start  
-2. Define class `student` with members `rno`, `name`, `fee`  
+2. Define class `student` with members `prn`, `name`, `fee`  
 3. Define parameterized constructor  
 4. Define copy constructor to duplicate data  
 5. Define `display()` function  
 6. Create object `s` using parameterized constructor  
-7. Create object `manjeet` using copy constructor  
+7. Create object using copy constructor  
 8. Display both objects  
 9. End  
 
